@@ -72,4 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Configuration for production deploymen
 
 You need edit the package.json file. Add the following to the end of the predeploy line.
+
 <code>npm run build && echo 'your.domain' > ./build/CNAME</code>
